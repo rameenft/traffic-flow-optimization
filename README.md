@@ -1,4 +1,3 @@
-**Course:** INDENG 240 — Network Flows & Optimization | UC Berkeley  
 **Dataset:** Stanford SNAP California Road Network (`roadNet-CA`) — 1.96M intersections, 2.77M road segments
 
 ---
